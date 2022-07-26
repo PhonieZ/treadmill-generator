@@ -1,0 +1,15 @@
+data:extend(
+{
+  {
+    type="item",
+    name="treadmill",
+    icon="__base__/graphics/icons/transport-belt.png",
+    icon_size=64,
+    icon_mipmaps=4,
+    subgroup="treadmills",
+    order="c[express-transport-belt]-ca[treadmill]",
+    place_result="",
+    stack_size=100
+  }
+}
+)

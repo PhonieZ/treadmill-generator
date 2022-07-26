@@ -1,0 +1,10 @@
+data:extend(
+{
+  {
+    type="item-subgroup",
+    name="treadmills",
+    group="logistics",
+    order="ba"
+  }
+}
+)
